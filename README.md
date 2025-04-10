@@ -26,7 +26,7 @@ npm install -g nodemon
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/RESTful-API-using-NodeJS.git
+git clone https://github.com/vikasmukhiya1999/RESTful-API-using-NodeJS.git
 cd RESTful-API-using-NodeJS
 ```
 
